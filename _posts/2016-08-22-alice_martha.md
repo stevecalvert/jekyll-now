@@ -6,4 +6,4 @@ categories: Summer 2016
 ---
 in the mill house..
 
-![Mill House]({{ stevecalvert.github.io }}/assets/alice_martha.jpg)
+![Mill House]({{ stevecalvert.github.io }}/images/alice_martha.jpg)
