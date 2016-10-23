@@ -6,10 +6,10 @@
 name: Steve Calvert
 
 # Short bio or description (displayed in the header)
-description: Bath-based software developer
+description: Bath-based software developers
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/logo.jpg
+avatar: /images/logo.jpg
 
 #
 # Flags below are optional
